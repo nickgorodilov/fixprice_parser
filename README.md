@@ -10,7 +10,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/fixprice_parser.git
+git clone https://github.com/nickgorodilov/fixprice_parser.git
 cd fixprice_parser
 ```
 
