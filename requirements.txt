@@ -7,3 +7,5 @@ scrapy-rotating-proxies>=0.6.2
 scrapy-user-agents>=0.1.1
 python-dotenv>=1.0.0
 user-agents>=2.2.0 
+selenium-wire>=5.1.0
+blinker==1.4
